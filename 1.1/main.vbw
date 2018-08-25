@@ -1,0 +1,8 @@
+FrmMain = -11, 11, 402, 609, , -6, 20, 380, 665, C
+ModAnalyzeRegExp = -768, 148, 289, 848, C
+ModGetUrl = -640, 130, 295, 790, C
+ModMathFunc = 0, 130, 366, 607, 
+ModSaveFileToLocal = 0, 104, 363, 582, 
+FrmHelp = -7, 175, 368, 653, C, 0, 84, 375, 562, C
+FrmAboutSoftWare = 0, 78, 374, 556, , 0, 26, 374, 504, C
+FrmAboutAuthor = 0, 208, 375, 686, , 0, 52, 374, 530, C
