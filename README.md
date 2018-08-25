@@ -26,8 +26,8 @@
 			最后，希望大家使用愉快。
 		</p>
 		<p align="right">
-			时间匮乏的学生党
-			小叶Little_Ye
+			时间匮乏的学生党<br>
+			小叶Little_Ye<br>
 			2018-8-25
 		</p>
 	</body>
