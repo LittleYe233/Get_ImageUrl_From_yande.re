@@ -5,7 +5,7 @@
 			（Github至今仍然用不好，若有操作不当等问题请见谅。但是我保证上传的源代码一定可以在VB6.0环境下编译通过）
 		</p>
 		<p>
-			作者：小叶Little_Ye
+			作者：小叶Little_Ye<br>
 			工作邮箱：littleye233@foxmail.com
 		</p>
 		<p>
