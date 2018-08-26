@@ -1,0 +1,4 @@
+FrmMain = -4, -9, 433, 589, , -8, 37, 1101, 687, C
+ModAnalyzeRegExp = -768, 148, 289, 848, C
+ModGetUrl = -640, 130, 295, 790, C
+ModMathFunc = 0, 130, 366, 607, 
